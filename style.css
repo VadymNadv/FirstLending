@@ -1,0 +1,29 @@
+h1 {
+
+    font-size: 30px;
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+
+    font-size: 20px;
+    color: silver;
+    text-transform: uppercase;
+    text-align: left;
+}
+h3 {
+
+    font-size: 20px;
+    color: silver;
+    text-transform: uppercase;
+    text-align: left;
+}
+p1{
+font-size: medium;
+color: #201a1a ;
+font-style: normal;
+}
+p2{
+    font-style: italic;
+}
